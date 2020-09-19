@@ -1,2 +1,2 @@
 # SnakeForRazer
-Snake für Razer
+Snake für Razer Chroma Tastaturen
