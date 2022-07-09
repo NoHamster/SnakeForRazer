@@ -1,5 +1,3 @@
 # SnakeForRazer
-Wolltest du schon immer Snake spielen, ohne das alle es bemerken?
-nun kannst du Snake auf deiner Razer Chorma Tastatur spielen und es wird niemanden auffallen...
-
-Ein kleines neben Projekt welches mitte August 2020 entstand
+Always wanted to play Snake without anyone noticing?
+If you own a RazerChroma compatable Keyboard this is project is just for you!
