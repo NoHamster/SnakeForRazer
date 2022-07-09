@@ -2,8 +2,10 @@
 Always wanted to play Snake without anyone noticing?
 If you own a RazerChroma compatable Keyboard this is project is just for you!
 
+
 Controls:
 WASD move
+
 Esc exit
 
 ![gameplay](https://user-images.githubusercontent.com/69124976/178113338-2cdf41e2-6c78-4d43-9c27-b923da6aaa4a.jpg)
